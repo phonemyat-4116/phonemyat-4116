@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>🔭 I’m currently working on backend  projects.  <br>📚 I'm currently learning on PHP, Laravel and Linux Operating System.<br>👯 I’m looking to collaborate on working on web project like Ecommerce.<br>⚡ In my free time I watch trendy YouTube tech videos. <br>👨‍💻 All of my projects are available at  - https://github.com/phonemyat-4116/phonemyat-4116<br>📝 Know about my experiences - www.linkedin.com/in/phone-myat-thu-b5434722b</p>
+<p align="left"><br>🔭 I’m currently working on backend  projects.  <br>📚 I'm currently learning on PHP, Laravel and Linux Operating System.<br>👯 I’m looking to collaborate on working on web project like Ecommerce.<br>⚡ In my free time I watch trendy YouTube tech videos. <br>👨‍💻 All of my projects are available at  - https://github.com/phonemyat-4116/phonemyat-4116<br>📝 Know about my experiences - www.linkedin.com/in/phone-myat-thu-b5434722b</p>
 
 ###
 
