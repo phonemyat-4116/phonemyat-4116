@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Phone Myat Thu<br><br>A passionate backend developer from Myanmar</h1>
+<h1 align="center">Hi 👋, I'm Phone Myat Thu<br><br>A passionate be a DevOps Engineer and also interested in Backend Development</h1>
 
 ###
 
