@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Phone Myat Thu<br><br>I am passionate about becoming a DevOps Engineer and am also interested in Backend Development.</h1>
+<h1 align="center">Hi 👋, I'm Phone Myat Thu<br><br>I am passionate about becoming a Backend IT Engineer and am also interested in DevOps and Cloud Aspects.</h1>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left"><br>🔭 I’m currently working on backend  projects.  <br>📚 I'm currently learning on PHP, Laravel and Linux Operating System.<br>👯 I’m looking to collaborate on working on web project like Ecommerce.<br>⚡ In my free time I watch trendy YouTube tech videos. <br>👨‍💻 All of my projects are available at  - https://github.com/phonemyat-4116/phonemyat-4116<br>📝 Know about my experiences - www.linkedin.com/in/phone-myat-thu-b5434722b</p>
+<p align="left"><br>🔭 I’m currently working on backend  projects.  <br>📚 I'm currently learning on Java, Spring Boot, AWS, and modern development workflow.<br>👯 I’m looking to collaborate on working on web project like enterprise projects.<br>⚡ In my free time I watch trendy YouTube tech videos. <br>👨‍💻 All of my projects are available at  - https://github.com/phonemyat-4116/phonemyat-4116<br>📝 Know about my experiences - www.linkedin.com/in/phone-myat-thu-b5434722b</p>
 
 ###
 
@@ -39,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40" alt="spring boot logo" />
 </div>
 
 ###
@@ -55,6 +57,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
 
 ###
